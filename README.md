@@ -10,4 +10,5 @@ TamperMonkey Scripts for Automation
 | Script Name | Purpose | Install Link |
 | :---------- |:------- | :----------- |
 | Context Menu | Highlight and right-click any IP, SHA256, or Elastic Log ID to open an applicable link for analysis | https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Context-Menu.user.js |
-| | | |
+| Case Assignment Macro | Adds a floating button to assign a case to yourself, hides if already assigned. | https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Case-Assignment-Macro.user.js |
+| | |

@@ -7,6 +7,8 @@
 // @match        https://portal.agileblue.com/apps/case/*
 // @grant        GM_addStyle
 // @run-at       document-idle
+// @downloadURL  https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Case-Assignment-Macro.user.js
+// @updateURL    https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Case-Assignment-Macro.user.js
 // ==/UserScript==
 
 (function() {

@@ -8,6 +8,8 @@
 // @match        https://portal.agileblue.com/apps/alert/*
 // @grant        none
 // @run-at       document-idle
+// @downloadURL  https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Tab-Title-Enhancements.user.js
+// @updateURL    https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Tab-Title-Enhancements.user.js
 // ==/UserScript==
 
 (function() {

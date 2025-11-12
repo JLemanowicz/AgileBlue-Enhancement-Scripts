@@ -8,8 +8,8 @@
 // @match        *://*/*
 // @grant        GM_openInTab
 // @grant        GM_addStyle
-// @downloadURL  https://raw.githubusercontent.com/JLemanowicz/AgileBlue-Enhancement-Scripts/refs/heads/main/ContextMenu.js
-// @updateURL    https://raw.githubusercontent.com/JLemanowicz/AgileBlue-Enhancement-Scripts/refs/heads/main/ContextMenu.js
+// @downloadURL  https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Context-Menu.user.js
+// @updateURL    https://github.com/JLemanowicz/AgileBlue-Enhancement-Scripts/raw/refs/heads/main/Scripts/Context-Menu.user.js
 // ==/UserScript==
 
 (function() {
